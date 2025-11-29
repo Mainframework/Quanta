@@ -7,4 +7,4 @@ This is an app for windows which allows power users to work with .safetensors mo
 
 
 It convert models in FP16 or FP32 quite fast
-It includes many type of quantization from: q4_k_m,q5_k_m,q6_k,q8_0, F16, BF16, F32 to IQ4_NL
+It includes many type of quantization from: q4_k_m,q5_k_m,q6_k,q8_0, F16, BF16, F32, IQ4_NL...
