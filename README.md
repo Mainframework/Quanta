@@ -8,3 +8,10 @@ This is an app for windows which allows power users to work with .safetensors mo
 
 It convert models in FP16 or FP32 quite fast
 It includes many type of quantization from: q4_k_m,q5_k_m,q6_k,q8_0, F16, BF16, F32, IQ4_NL...
+
+Requirements: Transformers, Torch, Sentencepiece. 
+
+In cmd or powershell do: 
+python -m pip install transformers
+python -m pip install torch
+python -m pip install sentencepiece
